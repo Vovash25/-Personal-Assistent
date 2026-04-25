@@ -1,2 +1,2 @@
 # Personal-Assistent
-Цей проєкт реалізує локального голосового асистента, який працює без використання хмарних сервісів, забезпечуючи приватність та швидкість обробки даних. Система підтримує двомовність (англійська та польська) та інтегрує сучасні моделі машинного навчання для обробки природної мови.
+This project implements a local voice assistant that operates without using cloud services, ensuring privacy and fast data processing. The system supports two languages (English and Polish) and integrates modern machine learning models for natural language processing.
